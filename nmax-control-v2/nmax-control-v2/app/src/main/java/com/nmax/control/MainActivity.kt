@@ -13,6 +13,7 @@ import android.view.ViewGroup.LayoutParams.MATCH_PARENT
 import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
 import android.widget.*
 
+
 class MainActivity : Activity() {
     private lateinit var link: NmaxLink
     private lateinit var statusTv: TextView
